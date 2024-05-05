@@ -6,7 +6,7 @@ git clone https://github.com/aqeeladil/todo-app.git
 ```
 
 ```html
-cd core
+cd todo-app
 ```
 <be>
 
